@@ -12,7 +12,7 @@
 
 ### About Me
 
-- Currently working on **KadiPy**
+- Currently working on [**KadiPy**](https://github.com/delsDin/kadipy)
 - Passionate about Python development, Data Science, and Machine Learning Engineering
 - Feel free to explore my repositories and work on GitHub
 

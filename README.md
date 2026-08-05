@@ -44,9 +44,9 @@
 <br/>
 <br/>
 
-<!--div align="center">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=delsDin&custom_title=Dels's%20Contribution%20Graph&bg_color=0d1117&color=1E90FF&line=87CEFA&point=ffffff&area_color=1E90FF&area=true&hide_border=true" alt="Activity Graph" width="95%"/>
-</div-->
+</div>
 
 <br/>
 

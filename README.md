@@ -20,7 +20,7 @@
 ### Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,html,css,js,react,nodejs,php,postgres,pandas,scikit-learn,numpy,git,github" alt="Languages and tools" />
+  <img src="https://skillicons.dev/icons?i=py,c,html,css,js,react,nodejs,php,postgres,pandas,scikit-learn,fastapi,numpy,git,github,githubactions,anaconda" alt="Languages and tools" />
 </p>
 
 ## 📊 GitHub Analytics

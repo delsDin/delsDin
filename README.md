@@ -54,11 +54,11 @@
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
+<!--div align="center">
 
 <img src="https://github-profile-trophy-ruby.vercel.app/?username=delsDin&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5"/>
 
-</div>
+</div-->
 
 
 ### Connect with me

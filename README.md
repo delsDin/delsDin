@@ -37,7 +37,7 @@
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=delsDin&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=1E90FF&fire=87CEFA&currStreakLabel=ffffff&sideLabels=1E90FF" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=delsDin&theme=black-ice&hide_border=true" />
 
 </div>
 
@@ -56,7 +56,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=delsDin&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" />
+<img src="https://github-profile-trophy.vercel.app/?username=delsDin&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" />
 
 </div>
 

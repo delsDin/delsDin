@@ -27,9 +27,9 @@
 
 <div align="center">
 
-<img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=delsDin&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=87CEFA&text_color=c9d1d9&bg_color=0d1117"/>
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=delsDin&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=87CEFA&text_color=c9d1d9&bg_color=0d1117" />
 
-<img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=delsDin&layout=compact&hide_border=true&title_color=1E90FF&text_color=c9d1d9&bg_color=0d1117"/>
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delsDin&layout=compact&hide_border=true&title_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" />
 
 </div>
 
@@ -37,7 +37,7 @@
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=delsDin&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=1E90FF&fire=87CEFA&currStreakLabel=ffffff&sideLabels=1E90FF&dates=c9d1d9"/>
+<img width="70%" src="https://streak-stats.demolab.com/?user=delsDin&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=1E90FF&fire=87CEFA&currStreakLabel=ffffff&sideLabels=1E90FF" />
 
 </div>
 
@@ -45,7 +45,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=delsDin&custom_title=Dels's%20Contribution%20Graph&bg_color=0d1117&color=1E90FF&line=87CEFA&point=ffffff&area_color=1E90FF&area=true&hide_border=true" alt="Activity Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=delsDin&custom_title=Dels's%20Contribution%20Graph&bg_color=0d1117&color=1E90FF&line=87CEFA&point=ffffff&area=true" />
 </div>
 
 <br/>
@@ -56,7 +56,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy-ruby.vercel.app/?username=delsDin&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5"/>
+<img src="https://github-profile-trophy.vercel.app/?username=delsDin&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" />
 
 </div>
 

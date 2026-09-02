@@ -36,16 +36,19 @@
 <br/>
 
 <div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=delsDin&theme=black-ice&hide_border=true" />
-
+  <!-- Replaced dynamic streak/graphs with static shields badges to avoid external paywall/402 issues -->
+  <img src="https://img.shields.io/badge/Contributions-693-1E90FF?style=for-the-badge&logo=github" alt="Contributions" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Current_Streak-5-87CEFA?style=for-the-badge&logo=google-chrome" alt="Current Streak" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Longest_Streak-14-1E90FF?style=for-the-badge&logo=github" alt="Longest Streak" />
 </div>
 
 <br/>
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=delsDin&custom_title=Dels's%20Contribution%20Graph&bg_color=0d1117&color=1E90FF&line=87CEFA&point=ffffff&area=true" />
+  <img src="https://img.shields.io/badge/Activity_Graph-View_Profile-0d1117?style=for-the-badge&logo=github" alt="Activity Graph" />
 </div>
 
 <br/>
@@ -56,7 +59,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=delsDin&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" />
+<img src="https://img.shields.io/badge/GitHub-Trophies-FFD700?style=for-the-badge&logo=github" alt="GitHub Trophies" />
 
 </div>
 

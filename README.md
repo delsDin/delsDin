@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Dels Dinla</h1>
+<h1 align="center">Hi, I'm Dels Marcel Dinla</h1>
 <h3 align="center">Python Developer | Data Scientist | ML Engineer</h3>
 
 
 <p align="center">
-  <img alt="profile views" src="https://komarev.com/ghpvc/?username=delsDin&label=Profile%20Views&color=1E90FF&style=for-the-badge"/>
+  <img alt="profile views" src="https://count.getloli.com/@dels?name=dels&theme=ai-1&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto"/>
 </p>
 
 <p align="center">
@@ -26,39 +26,18 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=delsDin&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=87CEFA&text_color=c9d1d9&bg_color=0d1117" />
-
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delsDin&layout=compact&hide_border=true&title_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" />
-
+  <img width="70%" src="https://streak-stats.demolab.com/?user=delsDin&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=1E90FF&fire=87CEFA&currStreakLabel=ffffff&sideLabels=1E90FF" />
 </div>
 
-<br/>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com/?user=delsDin&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=1E90FF&fire=87CEFA&currStreakLabel=ffffff&sideLabels=1E90FF" />
-
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/delsDin/delsDin/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/delsDin/delsDin/output/github-snake.svg">
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/delsDin/delsDin/output/github-snake.svg">
+  </picture>
 </div>
-
-<br/>
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=delsDin&custom_title=Dels's%20Contribution%20Graph&bg_color=0d1117&color=1E90FF&line=87CEFA&point=ffffff&area=true" />
-</div>
-
-<br/>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=delsDin&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" />
-
-</div>
 
 
 ### Connect with me

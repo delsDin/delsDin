@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Dels Dinla</h1>
+<h1 align="center">Hi, I'm Dels Marcel Dinla</h1>
 <h3 align="center">Python Developer | Data Scientist | ML Engineer</h3>
 
 
@@ -24,6 +24,10 @@
 </p>
 
 ## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=delsDin&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=1E90FF&fire=87CEFA&currStreakLabel=ffffff&sideLabels=1E90FF" />
+</div>
 
 <div>
   <picture>

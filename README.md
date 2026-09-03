@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Dels Marcel Dinla</h1>
+<h1 align="center">Hi, I'm Dels Dinla</h1>
 <h3 align="center">Python Developer | Data Scientist | ML Engineer</h3>
 
 

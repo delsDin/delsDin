@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img alt="profile views" src="https://komarev.com/ghpvc/?username=delsDin&label=Profile%20Views&color=1E90FF&style=for-the-badge"/>
+  <img alt="profile views" src="https://count.getloli.com/@dels?name=dels&theme=ai-1&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto"/>
 </p>
 
 <p align="center">

@@ -25,43 +25,15 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=delsDin&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=87CEFA&text_color=c9d1d9&bg_color=0d1117" />
-
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delsDin&layout=compact&hide_border=true&title_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" />
-
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/delsDin/delsDin/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/delsDin/delsDin/output/github-snake.svg">
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/delsDin/delsDin/output/github-snake.svg">
+  </picture>
 </div>
-
-<br/>
-
-<div align="center">
-  <!-- Replaced dynamic streak/graphs with static shields badges to avoid external paywall/402 issues -->
-  <img src="https://img.shields.io/badge/Contributions-693-1E90FF?style=for-the-badge&logo=github" alt="Contributions" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Current_Streak-5-87CEFA?style=for-the-badge&logo=google-chrome" alt="Current Streak" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Longest_Streak-14-1E90FF?style=for-the-badge&logo=github" alt="Longest Streak" />
-</div>
-
-<br/>
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Activity_Graph-View_Profile-0d1117?style=for-the-badge&logo=github" alt="Activity Graph" />
-</div>
-
-<br/>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/GitHub-Trophies-FFD700?style=for-the-badge&logo=github" alt="GitHub Trophies" />
-
-</div>
 
 
 ### Connect with me

@@ -10,18 +10,102 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Python+Developer;Data+Scientist;ML+Engineer" alt="Overview" />
 </p>
 
+I'm a Computer Science student passionate about building reliable software, developing machine learning solutions, and exploring how artificial intelligence can address real-world challenges.
+
+My main interests lie at the intersection of **Software Engineering, Data Science, and Applied Machine Learning**, with a particular focus on practical applications in agriculture and data-driven decision systems.
+
+</br>
+
 ### About Me
 
-- Currently working on [**KadiPy**](https://github.com/delsDin/kadipy)
-- Passionate about Python development, Data Science, and Machine Learning Engineering
-- Feel free to explore my repositories and work on GitHub
+- Computer Science student at IFRI, University of Abomey-Calavi, Benin.
+- Focused on Python development, software architecture, and testing.
+- Building my expertise in Machine Learning and statistical learning.
+- Interested in applied AI research, model reliability, and explainable AI.
+- Exploring AI-driven solutions for agriculture and emerging markets.
+- Currently developing [**KadiPy**](https://github.com/delsDin/kadipy), a Python project focused on agricultural data and intelligent decision support.
 
+My long-term goal is to pursue graduate studies in Artificial Intelligence or Data Science and contribute to research-driven technological solutions.
 
-### Languages and Tools
+</br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,html,css,js,react,nodejs,php,postgres,pandas,sklearn,fastapi,numpy,git,github,githubactions,anaconda" alt="Languages and tools" />
-</p>
+## 🧠 Technical Interests
+
+| Area | Focus |
+|---|---|
+| Software Engineering | Python architecture, modular design, testing |
+| Machine Learning | Regression, classification, ensemble methods |
+| Data Science | Data processing, statistical analysis, visualization |
+| Model Evaluation | Cross-validation, performance metrics, model selection |
+| Applied AI | Agricultural intelligence, predictive systems |
+| Research | Explainable AI, reliable ML, experimental evaluation |
+
+</br>
+
+### 🛠️ Technologies and Tools
+
+**Programming Languages**
+
+Python · C · JavaScript
+
+**Data Science & Machine Learning**
+
+NumPy · Pandas · Matplotlib · Scikit-learn
+
+**Software Engineering**
+
+Git · GitHub · Pytest · FastAPI
+
+**Databases**
+
+PostgreSQL · SQLite
+
+**Development Environment**
+
+Linux · VS Code
+
+</br>
+
+## 🚀 Featured Projects
+**🌱 KadiPy**
+A Python project focused on agricultural data processing and intelligent decision-support systems.
+- Key areas of interest:
+- Agricultural market data.
+- Weather information processing.
+- Data normalization and validation.
+- Offline-first data workflows.
+**Focus:** Python Engineering · Data Science · Applied AI
+
+</br>
+
+## 🔬 Research Interests
+I'm particularly interested in exploring:
+- Machine Learning for Agriculture.
+- Explainable Artificial Intelligence (XAI).
+- Reliable and Robust Machine Learning.
+- Predictive Analytics and Time Series Forecasting.
+- Machine Learning under Limited Data and Computational Resources.
+I'm especially interested in research that connects rigorous experimentation with practical problems in developing regions.
+
+</br>
+
+## 📚 Currently Learning
+- Advanced model validation and evaluation.
+- Statistical learning and experimental methodology.
+- Deep Learning with PyTorch.
+- Scientific literature review and research methodology.
+- Reproducible Machine Learning workflows.
+
+</br>
+
+🎯 Long-Term Goals
+- Build strong expertise in Machine Learning and Applied AI.
+- Contribute to open-source projects.
+- Conduct research and publish scientific work.
+- Pursue a fully funded Master's degree abroad.
+- Develop technological solutions with measurable real-world impact.
+
+</br>
 
 ## 📊 GitHub Analytics
 
@@ -37,8 +121,8 @@
   </picture>
 </div>
 
----
 
+</br>
 
 ### Connect with me
 
@@ -53,7 +137,9 @@
 </p>
 <div align="center">
 
-**Open for collaboration!**
+I'm open to meaningful collaborations, open-source contributions, and research-oriented projects.
+
+*Let's build, experiment, and create something useful.*
 
 *Have a project or an idea? Let's build something amazing together.*
 

@@ -74,6 +74,7 @@ A Python project focused on agricultural data processing and intelligent decisio
 - Weather information processing.
 - Data normalization and validation.
 - Offline-first data workflows.
+
 **Focus:** Python Engineering · Data Science · Applied AI
 
 </br>

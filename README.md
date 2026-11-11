@@ -46,7 +46,7 @@ My long-term goal is to pursue graduate studies in Artificial Intelligence or Da
 
 **Programming Languages**
 
-Python · C · JavaScript
+Python · C · C++ · Java · JavaScript
 
 **Data Science & Machine Learning**
 
@@ -62,7 +62,7 @@ PostgreSQL · SQLite
 
 **Development Environment**
 
-Linux · VS Code
+Linux · VS Code · Antigravity
 
 </br>
 
